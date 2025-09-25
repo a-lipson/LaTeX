@@ -6,12 +6,12 @@ A repo for my typeset math content, mostly homework and some lecture notes.
 
 ---
 
-## Configuration
+## configuration
 
-- Typst [neovim config](https://github.com/a-lipson/config/blob/dev/nvim/lua/plugins/lsp/latex.lua), [snippets](https://github.com/a-lipson/config/blob/dev/nvim/lua/snippets/typst/), and [style package](https://github.com/a-lipson/tinyset)
-- Nushell homework section management [neovim script](https://github.com/a-lipson/config/blob/dev/nvim/scripts/tex/new-section.nu)
+- typst [neovim config](https://github.com/a-lipson/config/blob/dev/nvim/lua/plugins/lsp/latex.lua), [snippets](https://github.com/a-lipson/config/blob/dev/nvim/lua/snippets/typst/), and [style package](https://github.com/a-lipson/tinyset)
+- nushell homework section management [neovim script](https://github.com/a-lipson/config/blob/dev/nvim/scripts/tex/new-section.nu)
 
-## Acknowledgments
+## acknowledgments
 
 - Gilles Castel's dev posts [castel.dev](https://castel.dev/)
 - Je Sian Keith Herman's Typst adaptation of the above [jskherman.com](https://www.jskherman.com/blog/typst-snippets/)
